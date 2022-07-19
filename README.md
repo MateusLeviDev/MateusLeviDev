@@ -3,7 +3,7 @@
   
   <p><img align="right" height="50%" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
   
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mateus-levir-souza-pereira/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white(mailto:mateuslevisouzapereira@gmail.com)"/>
   </p>
