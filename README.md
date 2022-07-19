@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi , I'm Mateus Levi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
   
 <p align="center">
   <a href="https://www.linkedin.com/in/mateus-levir-souza-pereira/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
