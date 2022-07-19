@@ -29,6 +29,7 @@
     <img width="10%" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&">
     <br>
     <img width="10%" alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img width="10%" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"
   </p>
   <br>
   <br>
