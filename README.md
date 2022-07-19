@@ -21,6 +21,7 @@
     <br>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+    <br>
     <code><img width="10%" alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></code>
   </p>
   
