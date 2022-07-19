@@ -13,13 +13,14 @@
 - :I’m currently learning: `AWS`, `IaC`, `Docker`, `CI/CD`, `Cloud Providers`and always `improving my skills`. :)
 - :Intern Software Enginner at Inter SA.  
   
-  <h1>Hard Skills</h1>
+  # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   
   <p>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
     <br>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+    <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   </p>
   
 
