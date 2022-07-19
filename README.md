@@ -27,6 +27,13 @@
     <br>
     <img width="10%" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img width="10%" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&">
+    <br>
+    <img width="10%" alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  </p>
+  <br>
+  <br>
+   <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
   </p>
   
   
