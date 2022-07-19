@@ -10,7 +10,7 @@
   
   ## :sassy_man:  About me
 - :I'm Developer, studying at Faculdade Estácio de Sá and living in Minas Gerais, Brazil.
-- :I’m currently learning: `System Analysis and Development`, `Software Engineering` and always learning new things.
+- :I’m currently learning: `AWS`, `IaC`, `Docker`, `CI/CD`, `Cloud Providers`and always `improving my skills`. :)
 - :Intern Software Enginner at Inter SA.  
   
   <h1>Hard Skills</h1>
