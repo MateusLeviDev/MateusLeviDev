@@ -26,6 +26,7 @@
     <img width="10%" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
     <br>
     <img width="10%" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img width="10%" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&">
   </p>
   
   
